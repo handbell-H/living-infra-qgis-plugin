@@ -1,0 +1,16 @@
+[general]
+name=국토생활인프라
+qgisMinimumVersion=3.0
+description=생활인프라 시설별 접근성 자료를 통합하고 마을/거점 충족도를 분석합니다.
+version=1.0.1
+author=손종혁 (국토연구원 국토모니터링연구센터)
+email=
+about=20종 생활인프라 접근성 SHP를 통합하고, 마을/거점 시설 분류 및 거리 기준값 적용을 통해 충족도 점수를 산출합니다. 500m 격자 결과를 다양한 공간단위로 집계합니다.
+tracker=
+repository=
+tags=accessibility,infrastructure,grid
+homepage=
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
